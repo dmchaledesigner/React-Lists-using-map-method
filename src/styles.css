@@ -1,0 +1,19 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+ul.personslist {
+  list-style: none;
+  padding: 0;
+}
+
+ul li {
+  list-style: none;
+  border-bottom: 1px solid black;
+}
+
+ul li h4.skill {
+  color: #a0a0a0;
+  text-transform: uppercase;
+}
